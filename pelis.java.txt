@@ -3,13 +3,11 @@ Star Wars
 2001 una odisea del espacio
 Matrix
 Matrix Reloaded
-<<<<<<< HEAD
 El padrino
-=======
 Planet of the Apes
 Brazil
 12 monkies - added from Eclipse, corrected from Github.exe
->>>>>>> origin/Sci-fi-
+second change from Github.exe, removing old comments
 
 
 
