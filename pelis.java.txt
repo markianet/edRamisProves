@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2001 odisea del espacio
 Solaris
+=======
+Time
+El señor de los anillos
+Mattixx
+>>>>>>> refs/heads/Sci-fi-
