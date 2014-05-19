@@ -11,7 +11,7 @@ public class testMath {
 		
 		// test métodes de Math
 		Math m = new Math (3,4);
-		System.out.println("Ara surt es titol:");
+		System.out.println("Ara surt es titolx:");
 		System.out.println ("suma: " + m.suma());
 		System.out.println ("resta: " + m.resta());
 		System.out.println ("multiplica: " + m.multiplica());
